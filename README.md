@@ -18,7 +18,7 @@ I’m a curious explorer who bridges the gap between **Commerce** and **Data Sci
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | Python, SQL, R |
+| **Languages** | Python, SQL |
 | **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Business/Marketing** | Market Research, Entrepreneurial Strategy, Economics |
 | **Tools** | Git, Jupyter Notebooks, Excel |
@@ -40,7 +40,7 @@ I’m a curious explorer who bridges the gap between **Commerce** and **Data Sci
 ## 📫 Connect with Me
 - 🌐 **Portfolio:** [Varshikaa29.github.io](https://varshikaa29.github.io)
 - 💼 **LinkedIn:** [Varshika Jain](https://www.linkedin.com/in/varshika-jain-ab1109329)
-- 📧 **Email:** varshikajain2972@gmail.com
+- 📧 **Email:** varshikajain2920@gmail.com
 
 ---
 
