@@ -27,8 +27,7 @@ I’m a curious explorer who bridges the gap between **Commerce** and **Data Sci
 
 ## 📈 Recent Projects
 
-#### [Project Name 1](Link-to-repo)
-*A brief description of a data project where you solved a business problem.*
+####[Varshika-blog]https://varshikaa29.github.io/varshika-blogs/
 - **Keywords:** Python, Regression, Business Strategy.
 
 #### [Project Name 2](Link-to-repo)
