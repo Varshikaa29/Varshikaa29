@@ -46,27 +46,18 @@
 
 ---
 
-## 📚 Research & Projects
+## 🚀 Featured Projects & Research
 
-### 🔬 Research Interests
-- **[Web performance optimization](guide://action?prefill=Tell%20me%20more%20about%3A%20Web%20performance%20optimization)**: Faster, leaner apps with clean architecture.  
-- **[Secure tunneling tools](guide://action?prefill=Tell%20me%20more%20about%3A%20Secure%20tunneling%20tools)**: Exploring Tailscale, Ngrok, Cloudflare Tunnel, ZeroTier.  
-- **[Hands-on cyber drills](guide://action?prefill=Tell%20me%20more%20about%3A%20Hands-on%20cyber%20drills)**: Teaching students to discover and defend networks in real time.  
+Here are the specific projects I've been building, ranging from market analysis to educational tools.
 
-### 🚀 Featured Projects
-- **[Varshika Blogs](guide://action?prefill=Tell%20me%20more%20about%3A%20Varshika%20Blogs)**  
-  - A blogging platform with clean UI and modular backend.  
-  - Tech: React, Node.js, MongoDB.  
-  - Repo: [varshika-blogs](https://github.com/Varshikaa29/varshika-blogs)
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 💜 **[Plum Market Analysis](https://github.com/Varshikaa29/plum-market-analysis)** | A deep dive into the "Plum Goodness" vegan beauty brand. Analyzes 4Ps, sentiment, and sales trends to decode their success. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+| 🎓 **[IITM BS Roadmap](https://github.com/Varshikaa29/iitm-bs-roadmap)** | An interactive visual guide for students of the IIT Madras BS Data Science degree. Helps navigate prerequisites and levels. | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🪙 **[Crypto Analysis](https://github.com/Varshikaa29/crypto-analysis)** | A sleek, responsive dashboard for tracking cryptocurrency trends and market data in real-time. | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Web](https://img.shields.io/badge/Web-API-green?style=flat-square) |
+| 🌸 **[Varshika Blogs](https://github.com/Varshikaa29/varshika-blogs)** | A custom-built "Digital Garden" with a built-in content editor and JSON-based CMS for sharing thoughts. | ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![CMS](https://img.shields.io/badge/Custom-CMS-purple?style=flat-square) |
 
-- **[Automation Scripts](guide://action?prefill=Tell%20me%20more%20about%3A%20Automation%20Scripts)**  
-  - Python scripts to automate repetitive tasks with clear logs.  
-  - Focus: Reliability, minimal dependencies.  
-
-- **[Cyber Drill Workflows](guide://action?prefill=Tell%20me%20more%20about%3A%20Cyber%20Drill%20Workflows)**  
-  - Scenario-based drills using ARP, Nmap, arp-scan, Wireshark.  
-  - Goal: Help students map devices and understand attack surfaces.  
-
+---
 ---
 
 ## 🎬 Fun GIFs
